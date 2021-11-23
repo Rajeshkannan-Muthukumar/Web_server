@@ -45,6 +45,6 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![output 1](CSS1)
+![output 1](CSS1.png)
 ## RESULT:
 web server is sucessfully ready
